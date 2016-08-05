@@ -79,3 +79,16 @@ The snapshot.xml file:
         </core_config_data>	
     </import>
 </snapshots>
+
+
+I placed some examples in the GIST: https://gist.github.com/ProxiBlue/7e33bc24d7333b4db83f of real world example I use daily.
+
+
+Our Premium extensions:
+----------------------
+[Magento Free Gift Promotions](http://www.proxiblue.com.au/magento-gift-promotions.html "Magento Free Gift Promotions")
+The ultimate magento gift promotions module - clean code, and it just works!
+
+[Magento Dynamic Category Products](http://www.proxiblue.com.au/magento-dynamic-category-products.html "Magento Dynamic Category Products")
+Automate Category Product associations - assign any product to a category, using various rules.
+
